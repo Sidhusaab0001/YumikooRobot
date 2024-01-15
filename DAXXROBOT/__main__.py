@@ -615,14 +615,14 @@ def Source_about_callback(update: Update, context: CallbackContext):
     if query.data == "source_":
         query.message.edit_caption(
             f"""
-*ʜᴇʏ,
+ʜᴇʏ,
  ᴛʜɪs ɪs {BOT_NAME},
 ᴀɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.
 
 ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [ᴋᴀʀᴀɴ](https://t.me/karxn_sidhu)
 [ɢʀᴏᴜᴘ](https://t.me/Mohabxt)
 [ᴀʙᴏᴜᴛ ʟᴇɢᴇɴᴅ](t.me/ABTT_ME)
-ᴀɴᴅ ᴜsɪɴɢ [ᴠɪʙᴇ](https://t.me/Karxn_Feeling).*
+ᴀɴᴅ ᴜsɪɴɢ [ᴠɪʙᴇ](https://t.me/Karxn_Feeling).
 
 
 *ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ](https://t.me/Karxn_Feeling/22)
