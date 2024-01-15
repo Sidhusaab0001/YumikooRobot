@@ -10,7 +10,7 @@ from DAXXROBOT import telethn as client
 SPAM_CHATS = []
 
 
-@app.on_message(filters.command(["utag"]) & filters.group & admin_filter)
+@app.on_message(filters.command(["utag"]))
 async def tag_all_users(_,message): 
     replied = message.reply_to_message  
     if len(message.command) < 2 and not replied:
